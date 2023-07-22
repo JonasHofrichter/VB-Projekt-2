@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PROPROJEKT_Hofrichter_I3A/1.0.0": {
+        "runtime": {
+          "PROPROJEKT_Hofrichter_I3A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROPROJEKT_Hofrichter_I3A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
